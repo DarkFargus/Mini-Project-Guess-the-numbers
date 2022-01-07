@@ -5,7 +5,7 @@ random_number = randint(1, 100)
 user_number = 0
 print('Добро пожаловать в числовую угадайку!')
 
-#Функция для проверки вводимого числа.
+#Функция для проверки вводимого числа.??
 def is_valid(num):
     if 1 <= user_number <= 100:
         return True
