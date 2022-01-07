@@ -1,5 +1,5 @@
 from random import *
-#from math import trunc
+#from math import trunс
 
 random_number = randint(1, 100)
 user_number = 0
